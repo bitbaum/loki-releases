@@ -1,3 +1,3 @@
-# FleetCrown Releases
+# Loki Releases
 
-Public binary release assets for FleetCrown and Fleet Runner.
+Public binary release assets for Loki and Fleet Runner (formerly FleetCrown).
